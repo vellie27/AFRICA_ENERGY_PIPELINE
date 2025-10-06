@@ -1,55 +1,163 @@
 Country,Indicator,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022
-Algeria,Population access to electricity-National (% of population),98.60,98.60,98.60,98.60,98.60,98.60,98.70,98.70,99.30,98.80,98.90,99,98.80,99.20,99.30,99.40,99.40,99.50,99.60,99.50,99.70,99.80,100
-Angola,Population access to electricity-National (% of population),24.20,20,26.30,27.40,28.40,29.40,30.50,37.50,38.50,33.80,35,34.60,37.30,38.40,32,42,41.80,42.90,45.30,45.60,47,48.20,48.50
-Benin,Population access to electricity-National (% of population),21.50,21.90,23.40,24.30,25.20,26.10,27.90,28,29,30,34.20,36.90,38.40,34.70,34.10,29.60,37,34.50,39,40,41,42,56.50
-Botswana,Population access to electricity-National (% of population),26.50,24.80,27,33.10,35.30,37.50,39.70,41.90,44.50,43.40,52,53.20,56,58,60,62.10,64.20,67.40,68.30,70.10,71.80,73.70,75.90
-Burkina Faso,Population access to electricity-National (% of population),9.10,9.50,9.90,11.40,10.70,11.10,11.60,12,12.50,12.60,13.10,14.80,15.10,15.40,19.20,16.20,16.60,17,14.40,17.60,18.50,19,19.50
-Burundi,Population access to electricity-National (% of population),2.50,2.80,3.10,3.40,3.70,3.20,2.70,4.70,4.80,5.40,5.30,6.20,6.50,6.90,7,7.90,8.50,9.30,9.50,9.80,9.10,10.20,10.30
-Cameroon,Population access to electricity-National (% of population),41,46.20,44,45.10,47.10,47.20,49,48.20,50.60,51.70,52.80,53.70,55.20,56.30,56.80,58.60,59.80,60.90,62.20,63.20,64.30,65.40,71
-Cape Verde,Population access to electricity-National (% of population),58.60,60.30,58.60,63.70,65.40,67,68.80,70.50,72.30,74.10,81.10,82.30,83.20,84.30,85.30,86.40,87.50,88.60,90.20,91.40,93.70,95.50,97.10
-Central African Republic,Population access to electricity-National (% of population),6,5.70,6.10,6.60,7,7.40,7.80,8.40,7.50,9.40,9.80,10.40,11,11.50,12,12.70,13.40,14.10,14.60,14.30,15.40,15.70,15.70
-Chad,Population access to electricity-National (% of population),3.10,3.40,3.80,4.10,3.50,4.80,5.10,5.50,5.90,6.30,6.40,9,7.80,8.10,8.40,7.70,9.20,10.90,10.10,8.40,10.90,11.30,11.70
-Comoros,Population access to electricity-National (% of population),39.80,42,44.80,46.50,48.70,51,53.20,55.50,57.80,60.10,69.70,69.30,69.30,69.40,71.80,74.10,76.40,78.70,81,83.30,85.60,87.90,89.90
-Congo Democratic Republic,Population access to electricity-National (% of population),6.70,7.10,7.70,8.30,9,6,10.20,15.20,11.60,12.30,13,13.70,15.40,15.20,13.50,16.60,17.30,18,18.70,19.10,20.10,20.80,21.50
-Congo Republic,Population access to electricity-National (% of population),29.40,30.30,31.20,32.10,33,33.80,34.90,35.80,36.80,37.10,40,40.80,41.60,42.50,43.40,44.30,45.30,46.20,47,47.70,48.70,49.70,50.60
-Cote d'Ivoire,Population access to electricity-National (% of population),48.70,49.70,51.40,51.50,52.40,58.90,60.20,55.30,60.30,57.30,58.40,55.80,55.80,61.50,61.90,62.60,64.30,65.60,67.10,68.60,69.90,71.10,70.40
-Djibouti,Population access to electricity-National (% of population),56,56.10,49.70,56.40,56.60,56.80,55.50,57.20,57.40,57.60,57.90,58.10,54.60,58.60,58.90,59.10,59.80,60.20,62.40,64.70,64.50,65.40,65
-Egypt,Population access to electricity-National (% of population),97.70,97.40,97.50,98.80,97.80,99.40,99,98.40,99.80,98.90,99.40,99.40,99.70,99.90,99.80,99.30,100,100,100,100,100,100,100
-Equatorial Guinea,Population access to electricity-National (% of population),64.80,64.90,64.90,64.90,64.90,65,65.10,65.10,65.20,65.40,66.10,66.10,65.70,65.90,66,66.10,66.20,66.40,66.50,66.60,66.70,66.80,67
-Eritrea,Population access to electricity-National (% of population),29.30,30.30,32.20,32.40,33.40,34.50,35.60,36.70,37.80,38.90,40.10,41.20,42.30,43.50,44.60,45.80,46.90,48,49.10,50.30,51.40,52.50,55.40
-Eswatini,Population access to electricity-National (% of population),20.40,26.90,25.90,28.70,31.40,34.20,35.20,39.80,42.60,38.60,45.60,51.20,54.30,57.50,65,64.10,63.40,73.50,74,77,80,82.90,82.30
-Ethiopia,Population access to electricity-National (% of population),12.70,10.20,11.90,13.50,15.20,14,18.60,20.30,22,23.70,25.50,23,29,30.80,27.20,29,42.90,44.30,44.80,48,51.10,54.20,55
-Gabon,Population access to electricity-National (% of population),73.60,77.20,77.80,78.50,79.20,81.60,80.50,81.30,82,82.70,89.30,88.70,89.30,86.40,87.10,87.30,88.10,86.30,89.60,90.30,91.10,91.80,93.50
-Gambia,Population access to electricity-National (% of population),34.30,29.90,31.50,27.80,34.80,30.50,38.10,39.80,41.50,43.20,46.80,48.30,49.90,51.50,53,54.70,56.40,56.20,60.30,62.10,62.20,63.70,65.40
-Ghana,Population access to electricity-National (% of population),43.70,44.80,46.80,48.30,50.80,41.30,55.10,56.90,60.50,61.10,64.20,64.10,56.50,70.70,78.30,74,79.30,79,80.40,83.50,85.40,86.30,85.10
-Guinea,Population access to electricity-National (% of population),15.20,16.40,17.70,18.90,20.20,20.20,22.80,24.10,25.40,26.70,28.10,29.50,26.20,32.20,33.50,34.90,33.50,35.40,45,42.20,44.70,46.80,47.70
-Guinea Bissau,Population access to electricity-National (% of population),5.41,5.94,6.45,6.96,7.47,7.98,14.50,7.90,9.30,4.70,6,13.50,14.90,16.30,17.20,20.10,22.90,26,28.40,30.90,33.40,35.80,37.40
-Kenya,Population access to electricity-National (% of population),15.20,17,18.90,16,22.60,24.50,26.40,28.30,30.30,23,19.20,36.20,38.10,40.10,36,41.60,53.10,55.80,61.20,69.70,71.50,76.50,76
-Lesotho,Population access to electricity-National (% of population),4.30,1.30,3.40,5.40,6.80,9.60,9.70,13.90,16,17,17,22.50,20.60,26.90,27.80,31.80,35.10,33.70,47,44.60,47.50,50.40,50
-Liberia,Population access to electricity-National (% of population),0.01,0.01,0.01,0.01,0.01,0.04,0.24,3,1.30,1.90,5.30,4.10,9.30,9.80,9.40,15.20,17.70,24.20,22.80,23.10,27.60,29.80,31.80
-Libya,Population access to electricity-National (% of population),99.80,96.90,95.20,93.50,91.80,90.10,88.40,86.80,85.10,83.50,81.90,80.30,78.70,77.10,75.50,73.80,72.20,70.60,67,68.50,69.40,70.20,70
-Madagascar,Population access to electricity-National (% of population),12.60,14.80,14,20.30,15.30,16,16.80,17.50,18.30,17.40,12.30,14.30,18.70,12.90,23,23.80,22.90,24.10,36.50,31,32,35.10,36.10
-Malawi,Population access to electricity-National (% of population),4.80,5.20,5.60,6.20,6.90,6.60,3.70,7.40,7.80,8.30,8.70,7.60,7.40,9,11.90,10.80,11,12.70,18,11.20,11.50,14.20,14
-Mali,Population access to electricity-National (% of population),9.60,10.80,13,14.70,16.40,18.20,16.60,21.70,23.40,24,27,28.80,25.60,32.40,34.20,37.60,38.80,34.80,50.90,47.90,50.60,53.40,53
-Mauritania,Population access to electricity-National (% of population),19.10,22.20,21.70,23,24.30,18.20,27,33,30,31.10,34.20,35.30,36.40,37.60,38.80,39.50,41.20,42.90,43.60,44.90,45.40,47.70,49
-Mauritius,Population access to electricity-National (% of population),99,99.20,99.40,99.10,99,99,99,99,99,99,99.40,99.60,99.40,99.40,99.50,99.60,99.70,99.60,99.80,100,99.50,99.60,100
-Morocco,Population access to electricity-National (% of population),69.80,71.60,73.30,75.10,78.20,78.60,96.50,82.20,84.10,85.90,95.70,96.10,96.40,97.20,97.30,97.30,97.80,100,98.10,99.60,100,100,100
-Mozambique,Population access to electricity-National (% of population),6.10,5.70,8.40,8.10,10.70,11.80,13,12.40,13.60,15,18.90,20.20,21.20,22.40,24.80,24,26.20,24.30,31.10,29.70,30.60,31.50,33.20
-Namibia,Population access to electricity-National (% of population),36.50,36,36.90,37.80,38.70,39.60,40.50,43.70,42.40,44.10,44.40,42.30,46.40,47.40,48.40,51.60,49.70,52.50,52.30,53.30,52.30,55.20,56.20
-Niger,Population access to electricity-National (% of population),6.50,8.40,8.80,9.30,9.70,7.10,9.30,11.20,11.80,12.30,13.60,14.30,14.40,15.20,15.70,16.60,17,17.60,17.60,18.50,18.70,18.60,19.50
-Nigeria,Population access to electricity-National (% of population),43.20,43.90,44.60,52.20,46.10,46.80,47.60,50.10,50.30,50,48,55.90,53,55.60,54.20,52.50,59.30,54.40,56.50,55.40,55.40,59.50,60.50
-Rwanda,Population access to electricity-National (% of population),6.20,4.70,6,7.40,8.70,4.80,11.40,12.80,6,15.60,9.70,10.80,17.50,15.20,19.80,22.80,29.40,34.10,38,46.60,45.20,48.70,50.60
-Sao Tome and Principe,Population access to electricity-National (% of population),52.90,51.50,52.50,53.60,54.70,55.80,56.90,58,59.10,56.90,61.40,62.60,57.90,65,68.60,67.30,69.40,74.30,71,75.10,76.80,78.50,78
-Senegal,Population access to electricity-National (% of population),37.70,38.90,36.80,41.90,36.80,47.10,49.90,48.10,49.70,53.50,56.50,56.50,56.50,57,61,60.50,64.50,61.70,66,70.40,64.30,68,67.90
-Seychelles,Population access to electricity-National (% of population),94.10,94.40,96.10,94.90,95.20,95.50,99,96.10,96.50,96.80,97,98.10,98.30,98,100,100,100,100,100,100,100,100,100
-Sierra Leone,Population access to electricity-National (% of population),7.70,8.50,9.20,9.90,16.80,11.30,12.20,13,12.10,14.60,11.50,14.20,17.20,13.50,18.80,19.70,20.30,23.40,26.10,22.70,26.30,27.50,29.40
-Somalia,Population access to electricity-National (% of population),2.10,4.70,7.40,9.80,12.40,15,15.20,20.20,22.90,25.50,52.30,52,51.80,51.50,51.40,51.20,51.10,52.10,50.70,49.20,49.90,49.30,48.90
-South Africa,Population access to electricity-National (% of population),72.40,70.20,76.70,78.80,80.60,80.80,80.70,82,81.90,82.60,82.80,83.60,85.20,85.20,85.90,85.30,83.90,84.40,84.70,85,90,89.30,86.50
-South Sudan,Population access to electricity-National (% of population),1.35,1.39,1.43,1.47,1.51,1.55,1.60,0.80,1.30,3,1.50,2.80,3.30,3.80,4.30,4.80,5.30,4.20,6.30,6.80,7.30,7.70,8.40
-Sudan,Population access to electricity-National (% of population),23,29.40,29.70,29.90,30.20,30.50,30.80,31.10,20,29,36,38.30,40.70,43.10,44.90,48,50.50,53,55.30,57.60,59.70,61.80,63.20
-Tanzania,Population access to electricity-National (% of population),8.70,9.70,10.70,11.10,11.40,13.80,14.90,15.90,11.50,11.20,14.80,14.20,15.30,16.40,23.50,26.20,32.80,32.10,34.90,37.70,39.90,42.70,45.80
-Togo,Population access to electricity-National (% of population),17,19.60,21.30,23,24.80,26.50,27.90,30,31.80,33.70,30.80,39.70,39.10,41,45.70,44.70,46.80,48,50,52.50,54.10,55.70,57.20
-Tunisia,Population access to electricity-National (% of population),94.80,97.30,97.80,98.40,99,99.20,99.40,99.40,99.40,99.50,99.50,99.50,99.50,99.70,99.80,99.90,100,100,99.80,100,99.90,99.90,100
-Uganda,Population access to electricity-National (% of population),7.40,8.60,7.80,10.50,11.60,8.90,9,14.80,15.90,10,12.10,14.60,20.50,13.90,20.40,18.50,26.70,32.40,41.90,41.30,42.10,45.20,47.10
-Zambia,Population access to electricity-National (% of population),16.70,20.20,17.40,18.50,20.30,23.30,24.10,18.50,25.70,26.60,22,28.30,29.20,30.10,27.90,31.10,35.40,40.30,40.20,43,44.60,46.70,47.80
-Zimbabwe,Population access to electricity-National (% of population),33.70,34.20,34.20,35.10,35.60,36.10,37.20,37.20,37.70,43.40,38.90,36.90,44,40.60,32.30,33.70,42.50,44,45.40,46.70,52.70,49,50.10
+Algeria,Energy: Population with access to clean cooking fuels (% of population),96.40,97,97.40,97.80,98.10,98.40,98.60,98.80,99,99.10,99.20,99.30,99.40,99.40,99.50,99.60,99.60,99.70,99.70,99.70,99.70,99.70,99.70
+Algeria,Energy: Population without access to clean cooking fuels (millions of people),1.12,0.95,0.83,0.71,0.62,0.53,0.47,0.41,0.35,0.32,0.29,0.26,0.23,0.23,0.20,0.16,0.16,0.12,0.13,0.13,0.13,0.13,0.13
+Algeria,Energy intensity level of primary energy (MJ/2017 PPP GDP),4.25,4.14,4.19,4.15,4.03,3.96,4.17,4.29,4.24,4.56,4.49,4.54,4.81,4.84,5.09,5.14,4.94,5.01,5.27,5.40,5.40,5.61,NULL
+Angola,Energy: Population with access to clean cooking fuels (% of population),40.90,41.35,41.50,42.10,41.80,42.70,43.10,43.10,43.70,44,44.60,44.80,45.70,45.95,46.60,47.30,47.80,48.30,48.60,49,49.70,49.80,50
+Angola,Energy: Population without access to clean cooking fuels (millions of people),9.72,9.96,10.28,10.54,10.98,11.20,11.53,11.95,12.25,12.63,12.95,13.37,13.63,14.05,14.38,14.68,15.04,15.40,15.82,16.21,16.51,17.02,17.49
+Angola,Energy intensity level of primary energy (MJ/2017 PPP GDP),3.77,3.74,3.41,3.56,3.23,2.64,2.65,2.55,2.51,2.77,2.65,2.65,2.78,2.65,2.29,2.72,2.59,2.65,2.47,2.66,2.80,3.10,NULL
+Benin,Energy: Population with access to clean cooking fuels (% of population),0.60,0.80,1.10,1.50,1.90,2.30,2.80,3.30,3.80,4.20,4.40,4.80,4.90,5,5.10,5.30,5.20,5.20,5.30,5.40,5.70,5.80,6
+Benin,Energy: Population without access to clean cooking fuels (millions of people),6.82,7.02,7.22,7.41,7.60,7.80,7.99,8.18,8.37,8.57,8.79,9.01,9.25,9.50,9.76,10.02,10.31,10.59,10.88,11.16,11.43,11.73,12.01
+Benin,Energy intensity level of primary energy (MJ/2017 PPP GDP),4.88,4.93,5.05,5.15,5.15,5.08,5.76,5.91,5.76,5.91,6.00,5.82,5.61,5.71,5.54,5.79,6.22,6.11,6.05,5.69,5.79,4.79,NULL
+Botswana,Energy: Population with access to clean cooking fuels (% of population),44.20,46.20,47.90,49.30,51,52.10,53.40,54.80,56.30,57.30,58.40,59.40,60.10,60.50,61.40,61.80,62.50,63,63.70,64.40,64.80,65.40,66
+Botswana,Energy: Population without access to clean cooking fuels (millions of people),0.96,0.94,0.93,0.91,0.90,0.89,0.88,0.87,0.85,0.85,0.84,0.83,0.83,0.84,0.84,0.84,0.84,0.85,0.85,0.85,0.85,0.85,0.85
+Botswana,Energy intensity level of primary energy (MJ/2017 PPP GDP),3.84,3.79,3.59,3.39,3.44,3.39,3.26,3.18,3.24,3.44,3.40,3.04,3.47,3.29,3.39,3.55,3.17,3.18,3.25,2.92,2.89,2.68,NULL
+Burkina Faso,Energy: Population with access to clean cooking fuels (% of population),2.70,2.90,3.10,3.40,3.60,3.90,4.30,4.60,5,5.40,5.80,6.20,6.90,7.50,8.20,8.90,10,10.80,11.90,13.10,14.50,15.80,17.20
+Burkina Faso,Energy: Population without access to clean cooking fuels (millions of people),11.29,11.60,11.91,12.22,12.56,12.90,13.23,13.60,13.96,14.32,14.70,15.08,15.43,15.79,16.14,16.50,16.78,17.12,17.40,17.66,17.87,18.10,18.30
+Burkina Faso,Energy intensity level of primary energy (MJ/2017 PPP GDP),5.37,5.18,5.11,4.94,4.78,5.51,5.48,5.71,5.74,5.64,5.31,5.30,5.42,5.50,5.55,5.80,5.50,5.61,5.71,5.57,5.53,5.43,5.40
+Burundi,Energy: Population with access to clean cooking fuels (% of population),0.30,0.30,0.30,0.30,0.30,0.30,0.30,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.10,0.10,0.10,0.10,0.10,0.10
+Burundi,Energy: Population without access to clean cooking fuels (millions of people),6.38,6.54,6.72,6.93,7.16,7.40,7.65,7.92,8.20,8.47,8.75,9.03,9.30,9.58,9.87,10.18,10.50,10.85,11.21,11.56,11.93,12.29,12.66
+Burundi,Energy intensity level of primary energy (MJ/2017 PPP GDP),10.75,10.95,10.70,10.32,10.01,9.49,9.06,8.80,8.43,8.13,7.98,7.89,7.48,7.55,7.07,7.34,7.52,7.58,7.69,7.60,7.74,7.48,7.40
+Cameroon,Energy: Population with access to clean cooking fuels (% of population),9.80,10.80,11.70,12.80,13.80,14.80,15.70,16.60,17.40,18.40,19,19.70,20.30,21,21.90,22.80,23.60,24.30,25.30,26.40,27.40,28.60,29.40
+Cameroon,Energy: Population without access to clean cooking fuels (millions of people),13.78,13.98,14.20,14.40,14.62,14.84,15.09,15.34,15.62,15.86,16.18,16.48,16.80,17.11,17.37,17.63,17.91,18.21,18.43,18.63,18.85,19.00,19.26
+Cameroon,Energy intensity level of primary energy (MJ/2017 PPP GDP),5.82,5.70,5.71,5.67,5.49,5.47,4.88,4.41,4.33,4.56,4.47,4.53,4.53,4.51,4.63,4.61,4.52,4.41,4.35,4.27,4.36,4.23,NULL
+Cape Verde,Energy: Population with access to clean cooking fuels (% of population),62.80,63,63.40,63.70,64.30,64.60,65.60,66.50,67.40,68.40,69.70,70.80,71.90,73,74.35,75.50,76.70,77.90,79,80.20,81.10,82,83
+Cape Verde,Energy: Population without access to clean cooking fuels (millions of people),0.16,0.16,0.17,0.17,0.17,0.17,0.17,0.16,0.16,0.16,0.15,0.15,0.14,0.14,0.14,0.13,0.13,0.12,0.12,0.11,0.11,0.10,0.10
+Cape Verde,Energy intensity level of primary energy (MJ/2017 PPP GDP),2.99,3.17,3.23,3.16,3.11,3.04,3.02,2.68,2.35,2.60,2.69,2.85,2.42,2.40,2.35,2.36,2.40,2.41,2.34,2.38,2.49,2.45,2.17
+Central African Republic,Energy: Population with access to clean cooking fuels (% of population),0.60,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.50,0.60,0.60,0.60,0.60,0.70,0.70,0.80,0.90,1,1
+Central African Republic,Energy: Population without access to clean cooking fuels (millions of people),3.73,3.81,3.89,3.96,4.03,4.11,4.18,4.25,4.32,4.38,4.43,4.45,4.47,4.47,4.49,4.52,4.57,4.63,4.70,4.79,4.88,4.97,5.08
+Central African Republic,Energy intensity level of primary energy (MJ/2017 PPP GDP),7.03,6.99,6.94,7.21,7.39,7.33,7.19,7.11,6.94,6.89,6.76,6.68,6.25,9.30,9.55,9.40,9.12,8.80,8.56,8.39,8.40,8.41,8.31
+Chad,Energy: Population with access to clean cooking fuels (% of population),3,2.80,2.60,2.50,2.30,2.30,2.20,2.30,2.40,2.50,2.60,2.85,3.10,3.40,3.80,4.20,4.70,5.20,6,6.70,7.50,8.40,9.50
+Chad,Energy: Population without access to clean cooking fuels (millions of people),8.09,8.42,8.77,9.12,9.49,9.84,10.19,10.53,10.87,11.22,11.58,11.94,12.31,12.69,13.05,13.42,13.77,14.13,14.43,14.75,15.06,15.36,15.62
+Chad,Energy intensity level of primary energy (MJ/2017 PPP GDP),7.55,6.90,6.48,6.03,4.59,4.33,4.38,4.38,4.21,4.38,3.92,3.95,3.91,3.89,3.71,3.70,3.94,4.07,4.06,3.95,4.13,4.34,4.20
+Comoros,Energy: Population with access to clean cooking fuels (% of population),0.50,0.60,0.80,1,1.20,1.50,1.80,2.10,2.50,2.90,3.30,3.80,4.30,4.70,5.30,5.80,6.30,6.70,7.40,7.80,8.30,9,9.60
+Comoros,Energy: Population without access to clean cooking fuels (millions of people),0.54,0.55,0.56,0.58,0.59,0.60,0.62,0.63,0.64,0.65,0.67,0.68,0.69,0.71,0.72,0.73,0.75,0.76,0.77,0.78,0.80,0.81,0.82
+Comoros,Energy intensity level of primary energy (MJ/2017 PPP GDP),2.79,2.72,2.64,2.87,2.92,2.75,3.02,2.57,2.51,2.65,2.78,2.58,2.65,2.84,2.78,2.93,3.06,3.28,3.32,3.37,3.68,4.27,4.30
+Congo Democratic Republic,Energy: Population with access to clean cooking fuels (% of population),0.90,1.10,1.30,1.50,1.80,2.10,2.30,2.60,2.80,3.10,3.20,3.40,3.50,3.60,3.80,3.80,3.90,3.90,3.90,4,4.10,4.30,4.30
+Congo Democratic Republic,Energy: Population without access to clean cooking fuels (millions of people),46.65,47.86,49.19,50.62,52.08,53.60,55.24,56.90,58.68,60.47,62.46,64.45,66.56,68.75,70.92,73.30,75.67,78.17,80.73,83.26,85.84,88.37,91.13
+Congo Democratic Republic,Energy intensity level of primary energy (MJ/2017 PPP GDP),16.70,17.63,17.72,17.24,16.65,15.75,15.55,14.85,14.34,14.69,14.13,13.93,15.84,15.19,14.85,14.11,14.39,13.91,13.48,13.11,13.10,12.51,NULL
+Congo Republic,Energy: Population with access to clean cooking fuels (% of population),8.30,8.80,9.40,10,10.60,11.30,12.25,13.10,14.20,15.50,16.90,18.50,20.30,21.90,24,26,27.70,30,31.80,33.90,35.90,37.70,39.65
+Congo Republic,Energy: Population without access to clean cooking fuels (millions of people),2.96,3.02,3.09,3.15,3.22,3.30,3.37,3.46,3.53,3.59,3.65,3.68,3.69,3.71,3.70,3.70,3.71,3.68,3.68,3.66,3.65,3.63,3.61
+Congo Republic,Energy intensity level of primary energy (MJ/2017 PPP GDP),1.84,2.16,2.16,2.53,2.71,2.67,3.23,3.07,3.09,3.16,3.13,4.08,4.25,4.51,4.18,4.58,5.02,5.32,5.62,6.01,6.61,6.72,NULL
+Cote d'Ivoire,Energy: Population with access to clean cooking fuels (% of population),17.90,17.30,17,16.70,16.50,16.40,16.40,16.70,16.90,17.50,18.30,19.30,20.60,21.60,23.30,25.10,27.30,29.60,32.10,34.70,37.40,40.30,42.60
+Cote d'Ivoire,Energy: Population without access to clean cooking fuels (millions of people),13.70,14.09,14.41,14.73,15.03,15.33,15.63,15.90,16.20,16.45,16.67,16.86,17.01,17.22,17.28,17.31,17.23,17.10,16.91,16.67,16.38,16.02,15.78
+Cote d'Ivoire,Energy intensity level of primary energy (MJ/2017 PPP GDP),4.15,3.98,4.33,4.15,5.78,5.88,5.69,6.02,5.90,5.24,4.55,5.45,5.39,5.07,4.70,3.89,3.81,3.66,3.27,3.20,3.30,3.30,NULL
+Djibouti,Energy: Population with access to clean cooking fuels (% of population),3.80,3.90,4.10,4.30,4.50,4.70,5,5.30,5.70,5.90,6.40,7,7.40,7.80,8.30,8.80,9.05,9.60,9.80,10.20,10.10,10.50,10.30
+Djibouti,Energy: Population without access to clean cooking fuels (millions of people),0.69,0.70,0.72,0.73,0.74,0.75,0.76,0.77,0.78,0.79,0.80,0.81,0.82,0.83,0.84,0.85,0.86,0.87,0.88,0.89,0.90,0.91,0.92
+Djibouti,Energy intensity level of primary energy (MJ/2017 PPP GDP),3.75,3.72,3.83,3.86,3.69,3.65,3.50,3.55,3.56,3.37,3.55,2.82,2.67,2.71,2.58,2.66,2.37,2.23,2.30,2.32,2.09,2.08,2.03
+Egypt,Energy: Population with access to clean cooking fuels (% of population),82.20,86,89.40,92,94.20,95.80,97,97.80,98.60,98.90,99.20,99.50,99.70,99.80,99.80,99.90,99.90,99.90,99.90,99.90,99.90,99.90,99.90
+Egypt,Energy: Population without access to clean cooking fuels (millions of people),12.44,9.97,7.69,5.92,4.37,3.22,2.34,1.75,1.13,0.91,0.67,0.43,0.26,0.18,0.18,0.09,0.10,0.10,0.10,0.10,0.10,0.10,0.11
+Egypt,Energy intensity level of primary energy (MJ/2017 PPP GDP),3.16,3.47,3.45,3.47,3.64,4.00,3.95,3.94,3.81,3.72,3.51,3.61,3.64,3.43,3.45,3.28,3.46,3.48,3.27,3.10,2.96,3.06,NULL
+Equatorial Guinea,Energy: Population with access to clean cooking fuels (% of population),19,19.70,19.90,20.10,20.30,20.90,21.20,21.60,22.10,22.60,22.90,23,23.50,23.40,23.60,23.70,23.65,23.30,23.30,23.10,22.80,22,21.90
+Equatorial Guinea,Energy: Population without access to clean cooking fuels (millions of people),0.50,0.51,0.53,0.55,0.58,0.60,0.62,0.65,0.68,0.70,0.73,0.77,0.79,0.83,0.86,0.90,0.93,0.97,1.01,1.05,1.09,1.13,1.17
+Equatorial Guinea,Energy intensity level of primary energy (MJ/2017 PPP GDP),1.34,0.90,1.09,1.09,2.89,2.67,2.57,1.90,1.82,1.44,2.36,2.28,2.71,3.48,3.24,3.30,4.08,4.06,4.46,3.70,4.37,5.18,5.90
+Eritrea,Energy: Population with access to clean cooking fuels (% of population),3.60,3.90,4.30,4.80,5.40,5.80,6.30,6.90,7.40,7.60,8.20,8.40,8.90,9,9.50,9.60,9.80,9.80,10.10,10.20,10.40,10.40,10.50
+Eritrea,Energy: Population without access to clean cooking fuels (millions of people),3.27,3.36,3.46,3.56,3.65,3.74,3.81,3.87,3.92,3.98,4.03,4.10,4.16,4.23,4.30,4.38,4.47,4.57,4.66,4.77,4.87,4.98,5.08
+Eritrea,Energy intensity level of primary energy (MJ/2017 PPP GDP),7.44,7.20,6.72,7.94,6.62,6.50,6.20,6.17,7.70,7.20,6.74,5.67,5.71,6.43,5.04,6.50,6.22,6.99,6.38,6.28,6.41,6.37,NULL
+Eswatini,Energy: Population with access to clean cooking fuels (% of population),24.90,25.70,27.20,28.60,29.60,31.20,32.60,34.10,35.80,37.50,39.10,41.30,42.50,43.70,45.20,45.80,46.70,47.20,47.70,48.10,48.60,48.80,48.90
+Eswatini,Energy: Population without access to clean cooking fuels (millions of people),0.80,0.80,0.79,0.78,0.77,0.76,0.76,0.75,0.74,0.74,0.73,0.72,0.72,0.72,0.71,0.71,0.72,0.72,0.73,0.73,0.74,0.75,0.76
+Eswatini,Energy intensity level of primary energy (MJ/2017 PPP GDP),6.33,5.93,5.88,5.79,5.57,5.39,5.06,4.98,4.88,4.92,4.66,4.70,4.71,4.81,4.16,4.45,4.44,4.44,4.50,4.53,4.51,3.91,NULL
+Ethiopia,Energy: Population with access to clean cooking fuels (% of population),0.90,0.90,0.90,1,1.10,1.10,1.30,1.40,1.60,1.90,2.20,2.60,3,3.40,3.80,4.30,4.90,5.40,6,6.60,7.40,8,8.80
+Ethiopia,Energy: Population without access to clean cooking fuels (millions of people),65.94,67.88,69.86,71.82,73.80,75.88,77.83,79.87,81.85,83.79,85.77,87.71,89.67,91.66,93.67,95.58,97.39,99.29,101.08,102.87,104.41,106.17,107.68
+Ethiopia,Energy intensity level of primary energy (MJ/2017 PPP GDP),20.85,20.20,20.48,21.62,19.95,18.13,16.78,15.52,14.41,13.47,12.52,11.66,11.04,10.44,9.83,9.15,8.78,8.16,7.84,7.41,7.03,6.79,3.89
+Gabon,Energy: Population with access to clean cooking fuels (% of population),64.40,65.95,67.60,69.40,71,72.90,74.40,76,77.40,79,80.70,82,83.20,84.20,85.30,86.30,87.20,88,88.80,89.30,90,90.40,90.90
+Gabon,Energy: Population without access to clean cooking fuels (millions of people),0.44,0.43,0.42,0.41,0.40,0.38,0.37,0.36,0.35,0.33,0.32,0.31,0.30,0.29,0.28,0.26,0.25,0.24,0.23,0.23,0.22,0.21,0.20
+Gabon,Energy intensity level of primary energy (MJ/2017 PPP GDP),3.03,3.18,3.83,4.43,5.08,5.98,6.86,7.11,7.69,8.61,9.09,6.83,5.73,7.98,7.43,7.22,7.08,6.62,6.82,6.35,6.52,6.47,NULL
+Gambia,Energy: Population with access to clean cooking fuels (% of population),3.70,3.70,3.60,3.50,3.50,3.40,3.20,3.10,3,2.90,2.70,2.40,2.30,2.30,2.10,2,1.90,1.80,1.80,1.80,1.80,1.70,1.70
+Gambia,Energy: Population without access to clean cooking fuels (millions of people),1.19,1.22,1.26,1.31,1.35,1.40,1.44,1.49,1.54,1.59,1.65,1.70,1.76,1.82,1.88,1.94,2.00,2.06,2.12,2.19,2.25,2.32,2.39
+Gambia,Energy intensity level of primary energy (MJ/2017 PPP GDP),3.13,3.10,3.23,3.05,2.94,3.05,3.20,3.22,3.09,3.09,2.92,3.24,3.13,3.01,3.34,3.48,3.45,3.29,3.24,3.24,3.19,3.11,NULL
+Ghana,Energy: Population with access to clean cooking fuels (% of population),6.30,6.80,7.50,8.20,8.90,9.80,10.70,11.80,12.75,13.80,15.30,16.60,17.60,19.10,20.20,21.60,22.90,24.20,25.90,26.90,28.30,29.70,31
+Ghana,Energy: Population without access to clean cooking fuels (millions of people),17.75,18.10,18.43,18.77,19.12,19.43,19.75,20.02,20.33,20.61,20.76,20.95,21.20,21.31,21.52,21.62,21.75,21.86,21.83,22.00,22.04,22.06,22.09
+Ghana,Energy intensity level of primary energy (MJ/2017 PPP GDP),4.84,4.65,4.43,4.01,3.75,3.50,3.57,3.37,3.32,3.22,3.30,3.04,3.12,2.93,2.89,2.95,2.87,2.63,2.80,2.78,2.97,2.88,3.16
+Guinea,Energy: Population with access to clean cooking fuels (% of population),0.70,0.80,0.80,0.80,0.80,0.80,0.80,0.80,0.80,0.80,0.80,0.80,0.80,0.80,0.80,0.80,0.80,0.80,0.90,0.90,1,1,1.10
+Guinea,Energy: Population without access to clean cooking fuels (millions of people),8.75,8.90,9.06,9.24,9.41,9.60,9.80,10.02,10.24,10.47,10.71,10.95,11.19,11.44,11.71,11.99,12.30,12.62,12.94,13.28,13.61,13.97,14.32
+Guinea,Energy intensity level of primary energy (MJ/2017 PPP GDP),9.11,8.90,8.55,8.50,8.43,8.25,8.13,7.73,7.47,7.70,7.71,7.39,6.93,6.49,6.35,6.37,5.91,5.66,5.29,5.37,5.39,5.13,NULL
+Guinea Bissau,Energy: Population with access to clean cooking fuels (% of population),1.40,1.30,1.30,1.20,1.20,1.20,1.20,1.10,1.10,1.10,1.10,1.10,1.10,1.10,1.10,1.10,1.10,1.10,1.10,1.10,1,1,0.90
+Guinea Bissau,Energy: Population without access to clean cooking fuels (millions of people),1.23,1.25,1.28,1.31,1.33,1.36,1.40,1.43,1.46,1.50,1.54,1.58,1.62,1.66,1.71,1.75,1.80,1.84,1.89,1.93,1.98,2.03,2.08
+Guinea Bissau,Energy intensity level of primary energy (MJ/2017 PPP GDP),10.71,10.39,10.19,10.62,10.70,10.20,10.10,10.07,9.72,9.67,9.31,8.73,9.01,8.84,8.94,8.60,8.34,8.05,7.87,7.56,7.51,7.14,4.95
+Kenya,Energy: Population with access to clean cooking fuels (% of population),1.70,2.20,2.50,3,3.50,4.10,4.70,5.20,5.90,6.50,7,7.60,8.50,9.50,10.60,11.90,13.80,15.75,18.10,20.70,23.60,26.40,30
+Kenya,Energy: Population without access to clean cooking fuels (millions of people),30.92,31.61,32.38,33.11,33.85,34.57,35.31,36.11,36.84,37.62,38.46,39.26,39.94,40.57,41.15,41.62,41.77,41.87,41.73,41.41,40.87,40.32,39.26
+Kenya,Energy intensity level of primary energy (MJ/2017 PPP GDP),5.73,5.57,5.62,5.48,5.57,5.48,5.40,5.16,5.30,5.44,5.18,5.10,4.90,4.96,5.13,5.34,5.27,5.24,5.09,4.93,4.96,4.76,6.95
+Lesotho,Energy: Population with access to clean cooking fuels (% of population),16,17.70,19.20,20.85,22.40,23.90,25.40,26.90,28.50,29.80,31.10,32.40,33.60,34.90,35.90,36.80,37.80,38.70,39.20,39.80,40.20,41.10,41.50
+Lesotho,Energy: Population without access to clean cooking fuels (millions of people),1.57,1.55,1.54,1.52,1.50,1.48,1.47,1.45,1.43,1.42,1.41,1.40,1.39,1.38,1.38,1.37,1.37,1.37,1.38,1.38,1.39,1.39,1.39
+Lesotho,Energy intensity level of primary energy (MJ/2017 PPP GDP),13.55,13.24,13.04,11.53,11.53,11.41,11.14,10.93,10.77,11.13,10.64,11.45,10.81,9.10,8.94,8.14,7.86,8.42,8.19,8.37,8.18,10.42,NULL
+Liberia,Energy: Population with access to clean cooking fuels (% of population),0.60,0.60,0.50,0.50,0.50,0.40,0.40,0.40,0.40,0.40,0.40,0.30,0.30,0.40,0.40,0.40,0.40,0.50,0.50,0.60,0.70,0.70,0.80
+Liberia,Energy: Population without access to clean cooking fuels (millions of people),2.87,2.97,3.05,3.10,3.16,3.25,3.36,3.50,3.65,3.80,3.93,4.06,4.17,4.27,4.37,4.48,4.60,4.71,4.83,4.95,5.07,5.20,5.32
+Liberia,Energy intensity level of primary energy (MJ/2017 PPP GDP),10.64,10.79,10.79,15.93,16.06,16.09,15.39,13.92,13.34,13.12,13.25,12.93,12.46,11.65,11.55,11.85,12.34,12.46,12.52,13.87,14.32,14.01,9.02
+Libya,Energy: Population with access to clean cooking fuels (% of population),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Libya,Energy: Population without access to clean cooking fuels (millions of people),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Libya,Energy intensity level of primary energy (MJ/2017 PPP GDP),4.65,4.77,5.08,4.38,4.25,4.00,3.75,2.97,3.32,3.82,4.18,6.91,4.24,4.68,8.01,7.74,7.87,6.66,5.55,7.02,4.44,5.26,13.76
+Madagascar,Energy: Population with access to clean cooking fuels (% of population),1.30,1.20,1.20,1.20,1.10,1.10,1.10,1,1,1,1,0.90,1,1,1,1,1,1,1.10,1.30,1.35,1.45,1.50
+Madagascar,Energy: Population without access to clean cooking fuels (millions of people),15.56,16.07,16.56,17.07,17.61,18.14,18.67,19.24,19.80,20.36,20.94,21.55,22.12,22.73,23.35,23.99,24.65,25.32,25.97,26.62,27.32,28.01,28.74
+Madagascar,Energy intensity level of primary energy (MJ/2017 PPP GDP),7.76,7.18,8.62,8.32,8.21,8.02,7.79,7.65,7.49,8.02,8.50,8.72,8.78,8.35,8.18,8.12,7.90,7.98,8.49,8.58,9.41,9.35,NULL
+Malawi,Energy: Population with access to clean cooking fuels (% of population),2.05,2.10,2.10,2.10,2.10,2.10,2.10,2.20,2.20,2.30,2.30,2.40,2.40,2.40,2.30,2.30,2.20,2,1.90,1.80,1.70,1.50,1.40
+Malawi,Energy: Population without access to clean cooking fuels (millions of people),11.14,11.45,11.76,12.08,12.41,12.77,13.15,13.54,13.96,14.38,14.82,15.25,15.71,16.18,16.68,17.17,17.69,18.25,18.80,19.36,19.94,20.55,21.15
+Malawi,Energy intensity level of primary energy (MJ/2017 PPP GDP),5.25,5.42,5.56,5.33,5.13,5.00,4.76,4.51,4.38,4.07,3.79,3.72,3.71,3.56,3.33,3.31,3.30,3.18,3.26,3.16,3.11,3.04,9
+Mali,Energy: Population with access to clean cooking fuels (% of population),0.70,0.80,0.80,0.80,0.80,0.90,0.90,0.90,0.90,0.90,0.90,0.90,0.90,1,0.90,0.90,1,1,1,1.10,1.10,1.20,1.20
+Mali,Energy: Population without access to clean cooking fuels (millions of people),10.89,11.20,11.55,11.91,12.29,12.68,13.11,13.55,14.01,14.48,14.94,15.40,15.86,16.31,16.81,17.31,17.81,18.36,18.92,19.47,20.06,20.64,21.26
+Mali,Energy intensity level of primary energy (MJ/2017 PPP GDP),4.80,4.36,4.70,4.74,4.98,4.77,4.68,4.82,4.71,4.76,5.63,5.83,5.62,6.12,6.02,5.92,6.05,6.06,6.05,6.06,6.48,6.43,3.33
+Mauritania,Energy: Population with access to clean cooking fuels (% of population),29.60,31.20,33,34.50,36,37.10,38.40,39.20,40.10,40.90,41.50,41.80,42.60,42.90,43.50,44.20,44.60,45.20,46,46.50,47.30,48.20,48.90
+Mauritania,Energy: Population without access to clean cooking fuels (millions of people),1.91,1.92,1.93,1.94,1.95,1.97,1.98,2.01,2.04,2.07,2.11,2.16,2.20,2.25,2.30,2.33,2.38,2.42,2.45,2.49,2.52,2.54,2.57
+Mauritania,Energy intensity level of primary energy (MJ/2017 PPP GDP),2.55,2.67,2.79,2.69,2.71,2.59,2.19,2.44,2.60,2.79,2.81,2.81,2.87,2.58,2.81,3.00,2.73,3.22,3.72,3.66,3.78,3.54,6.26
+Mauritius,Energy: Population with access to clean cooking fuels (% of population),92.80,93.60,94.40,95,95.70,96,96.40,96.80,97.10,97.40,97.60,97.80,98.10,98.30,98.40,98.50,98.70,98.80,98.80,98.90,98.90,99,99
+Mauritius,Energy: Population without access to clean cooking fuels (millions of people),0.09,0.08,0.07,0.06,0.05,0.05,0.04,0.04,0.04,0.03,0.03,0.03,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.01,0.01,0.01,0.01
+Mauritius,Energy intensity level of primary energy (MJ/2017 PPP GDP),2.89,2.94,2.87,2.84,2.77,2.82,2.89,2.75,2.66,2.52,2.54,2.45,2.40,2.37,2.33,2.32,2.23,2.19,2.08,2.06,2.12,2.15,3.74
+Morocco,Energy: Population with access to clean cooking fuels (% of population),89.80,90.90,91.70,92.50,93.20,93.90,94.60,95.10,95.70,96.20,96.60,96.90,97.20,97.70,97.70,97.90,97.90,98.10,98.10,98.10,98.10,98,97.90
+Morocco,Energy: Population without access to clean cooking fuels (millions of people),2.94,2.66,2.45,2.24,2.05,1.86,1.67,1.53,1.36,1.22,1.10,1.02,0.93,0.78,0.79,0.73,0.74,0.68,0.69,0.70,0.70,0.75,0.80
+Morocco,Energy intensity level of primary energy (MJ/2017 PPP GDP),3.35,3.30,3.25,3.04,3.41,3.51,3.31,3.33,3.27,3.16,3.21,3.29,3.24,3.11,3.07,3.02,3.01,3.00,2.94,3.08,3.14,3.14,NULL
+Mozambique,Energy: Population with access to clean cooking fuels (% of population),2.10,2.10,2.20,2.30,2.40,2.40,2.60,2.60,2.80,2.90,3.10,3.30,3.40,3.50,3.70,3.90,4.20,4.50,4.60,4.90,5.20,5.60,6
+Mozambique,Energy: Population without access to clean cooking fuels (millions of people),17.69,18.20,18.72,19.26,19.83,20.42,20.99,21.61,22.21,22.84,23.47,24.12,24.80,25.51,26.21,26.92,27.62,28.33,29.12,29.87,30.63,31.37,32.12
+Mozambique,Energy intensity level of primary energy (MJ/2017 PPP GDP),26.91,25.24,23.75,23.38,22.44,21.44,20.21,15.17,14.49,14.82,12.66,14.14,13.35,13.40,12.94,12.54,12.29,11.92,11.70,11.56,11.50,11.95,3.05
+Namibia,Energy: Population with access to clean cooking fuels (% of population),33.80,34.40,35.10,35.80,36.50,37.20,37.90,38.60,39.45,39.90,40.70,41.30,42.30,42.80,43.50,44.20,44.80,45.50,46,46.50,46.90,47.20,47.40
+Namibia,Energy: Population without access to clean cooking fuels (millions of people),1.26,1.27,1.27,1.28,1.28,1.28,1.28,1.28,1.28,1.28,1.29,1.30,1.31,1.33,1.34,1.35,1.37,1.38,1.40,1.41,1.43,1.45,1.48
+Namibia,Energy intensity level of primary energy (MJ/2017 PPP GDP),3.40,3.90,3.37,3.40,3.44,3.55,3.42,3.36,3.62,3.73,3.57,3.47,3.42,3.39,3.31,3.28,3.38,3.42,3.45,3.48,3.54,3.45,NULL
+Niger,Energy: Population with access to clean cooking fuels (% of population),0.80,0.90,0.90,0.90,0.90,0.90,1,1.10,1.10,1.20,1.20,1.40,1.50,1.70,2,2.20,2.60,2.90,3.30,3.70,4.30,4.90,5.70
+Niger,Energy: Population without access to clean cooking fuels (millions of people),11.26,11.67,12.10,12.54,13.01,13.50,13.99,14.51,15.06,15.62,16.23,16.83,17.47,18.11,18.77,19.46,20.14,20.85,21.58,22.32,23.04,23.78,24.49
+Niger,Energy intensity level of primary energy (MJ/2017 PPP GDP),5.83,5.60,5.53,5.65,5.89,5.54,5.38,5.45,5.30,5.51,5.47,4.65,4.97,5.90,5.63,5.49,5.34,5.14,5.05,4.99,4.97,5.19,NULL
+Nigeria,Energy: Population with access to clean cooking fuels (% of population),0.90,0.90,0.90,0.90,1,1,1.10,1.20,1.40,1.50,1.80,2.10,2.50,3.20,4.10,5.50,7.30,9.80,12.90,16.35,19.80,23,25.60
+Nigeria,Energy: Population without access to clean cooking fuels (millions of people),121.25,124.33,127.51,130.78,134.04,137.55,141.05,144.66,148.24,152.09,155.72,159.46,163.11,166.33,169.23,171.22,172.41,172.18,170.61,168.11,165.33,162.81,161.33
+Nigeria,Energy intensity level of primary energy (MJ/2017 PPP GDP),10.80,10.55,9.49,9.09,8.36,8.27,7.80,7.55,7.28,6.60,6.80,7.07,6.86,6.65,6.40,6.14,6.46,6.41,6.27,6.50,6.64,6.57,NULL
+Rwanda,Energy: Population with access to clean cooking fuels (% of population),0.10,0.10,0.10,0.10,0.10,0.10,0.10,0.20,0.20,0.20,0.30,0.30,0.40,0.50,0.70,0.90,1.20,1.70,2.40,3.30,4.60,6.20,8.30
+Rwanda,Energy: Population without access to clean cooking fuels (millions of people),8.02,8.32,8.53,8.67,8.81,8.98,9.20,9.43,9.69,9.96,10.22,10.48,10.75,11.01,11.27,11.52,11.77,12.00,12.20,12.37,12.49,12.55,12.54
+Rwanda,Energy intensity level of primary energy (MJ/2017 PPP GDP),7.80,7.19,6.35,6.20,5.77,6.95,6.54,6.31,5.88,5.73,5.56,5.36,5.14,5.08,4.87,4.57,4.35,4.28,4.03,3.72,3.86,3.59,NULL
+Sao Tome and Principe,Energy: Population with access to clean cooking fuels (% of population),0.30,0.30,0.40,0.40,0.50,0.60,0.60,0.70,0.90,1,1.10,1.30,1.50,1.70,1.90,2.10,2.40,2.60,2.80,3.10,3.40,3.70,4.10
+Sao Tome and Principe,Energy: Population without access to clean cooking fuels (millions of people),0.14,0.14,0.14,0.15,0.15,0.15,0.16,0.16,0.17,0.17,0.17,0.18,0.18,0.18,0.19,0.19,0.20,0.20,0.20,0.21,0.21,0.21,0.22
+Sao Tome and Principe,Energy intensity level of primary energy (MJ/2017 PPP GDP),4.79,4.66,4.78,4.82,4.95,4.79,4.50,4.38,4.24,4.25,4.63,4.32,4.38,4.15,4.40,4.62,4.67,4.32,4.12,4.18,3.96,3.97,3.51
+Senegal,Energy: Population with access to clean cooking fuels (% of population),34.90,36,37,38,38.40,38.50,38.20,37.70,36.50,35.20,33.60,31.90,30.70,29,28.20,27.50,27.30,27.70,28.20,28.85,30,31.30,32.30
+Senegal,Energy: Population without access to clean cooking fuels (millions of people),6.43,6.49,6.55,6.62,6.75,6.92,7.14,7.40,7.75,8.13,8.58,9.06,9.50,10.03,10.44,10.86,11.20,11.46,11.70,11.91,12.04,12.13,12.28
+Senegal,Energy intensity level of primary energy (MJ/2017 PPP GDP),3.95,4.09,4.13,3.78,3.87,3.79,3.72,3.88,3.92,4.59,4.68,4.79,4.51,4.07,4.15,4.19,3.93,3.65,3.48,3.72,3.55,3.58,3.64
+Seychelles,Energy: Population with access to clean cooking fuels (% of population),100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+Seychelles,Energy: Population without access to clean cooking fuels (millions of people),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seychelles,Energy intensity level of primary energy (MJ/2017 PPP GDP),3.07,3.37,3.42,3.53,4.05,3.71,3.41,3.25,3.42,3.69,3.44,2.95,2.97,2.76,2.91,2.90,2.85,2.78,2.74,2.58,2.85,2.85,NULL
+Sierra Leone,Energy: Population with access to clean cooking fuels (% of population),0,0.10,0.10,0.20,0.20,0.20,0.30,0.30,0.30,0.40,0.40,0.40,0.50,0.50,0.50,0.60,0.60,0.70,0.70,0.70,0.80,0.80,1
+Sierra Leone,Energy: Population without access to clean cooking fuels (millions of people),4.56,4.73,4.95,5.19,5.43,5.65,5.83,6.00,6.15,6.29,6.43,6.59,6.73,6.89,7.04,7.19,7.35,7.50,7.67,7.83,7.98,8.15,8.29
+Sierra Leone,Energy intensity level of primary energy (MJ/2017 PPP GDP),13.81,12.01,9.82,9.11,8.54,8.01,8.01,7.32,6.99,6.82,6.60,6.50,5.81,5.07,4.98,6.25,5.99,5.75,5.52,5.26,5.43,5.49,2.69
+Somalia,Energy: Population with access to clean cooking fuels (% of population),0.40,0.40,0.40,0.50,0.50,0.55,0.60,0.70,0.80,0.90,1.10,1.20,1.40,1.60,1.70,2,2.40,2.70,3,3.30,3.90,4.20,4.80
+Somalia,Energy: Population without access to clean cooking fuels (millions of people),8.98,9.25,9.53,9.79,10.07,10.35,10.65,10.96,11.28,11.60,11.92,12.26,12.59,12.92,13.28,13.63,13.97,14.34,14.73,15.12,15.48,15.89,16.27
+Somalia,Energy intensity level of primary energy (MJ/2017 PPP GDP),12.23,11.72,12.00,12.83,11.61,10.69,10.01,9.16,8.64,8.20,7.51,6.88,6.91,6.86,6.72,6.43,6.85,6.41,6.37,6.30,6.60,6.57,5.29
+South Africa,Energy: Population with access to clean cooking fuels (% of population),56,58,60,62.30,64.50,66.70,69,71.20,73.30,75.30,77.10,78.70,80,81.40,82.80,83.80,84.90,85.80,86.60,87.40,88.10,88.70,89.40
+South Africa,Energy: Population without access to clean cooking fuels (millions of people),20.12,19.48,18.81,17.96,17.13,16.26,15.30,14.37,13.46,12.59,11.81,11.13,10.60,10.00,9.38,8.96,8.46,8.05,7.69,7.32,6.99,6.71,6.36
+South Africa,Energy intensity level of primary energy (MJ/2017 PPP GDP),9.22,8.65,7.94,8.64,9.01,8.22,7.93,8.18,8.59,8.84,7.98,7.87,7.35,7.12,7.43,6.93,7.14,7.02,6.72,6.72,6.90,6.57,6.51
+South Sudan,Energy: Population with access to clean cooking fuels (% of population),0.40,0.30,0.30,0.20,0.20,0.10,0.10,0.10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+South Sudan,Energy: Population without access to clean cooking fuels (millions of people),6.67,6.95,7.22,7.49,7.77,8.10,8.46,8.85,9.26,9.67,10.07,10.45,10.82,11.18,11.53,11.88,12.23,12.58,12.92,13.26,13.61,13.96,14.31
+South Sudan,Energy intensity level of primary energy (MJ/2017 PPP GDP),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4.87,4.06,4.13,5.03,5.24,5.21,5.75,5.80,6.06,5.88,NULL
+Sudan,Energy: Population with access to clean cooking fuels (% of population),7,8.60,10.70,12.60,15,17.70,20.50,23.60,26,29.50,32.80,35.80,39,41.90,45.10,48,51.10,54.10,56.25,58.90,61,62.80,65.60
+Sudan,Energy: Population without access to clean cooking fuels (millions of people),25.34,25.54,25.61,25.73,25.66,25.44,25.13,24.66,24.39,23.72,23.11,22.58,21.95,21.41,20.72,20.10,19.35,18.60,18.16,17.47,16.98,16.59,15.71
+Sudan,Energy intensity level of primary energy (MJ/2017 PPP GDP),4.51,4.31,4.37,3.99,3.79,3.71,3.73,3.40,3.32,3.58,3.26,3.61,3.72,4.53,4.46,4.27,4.07,4.13,4.31,4.54,4.61,4.83,NULL
+Tanzania,Energy: Population with access to clean cooking fuels (% of population),0.70,0.70,0.70,0.70,0.80,0.80,0.90,1,1.10,1.20,1.40,1.60,1.90,2.20,2.70,3.20,3.90,4.50,5.30,6.20,7.20,8.10,9.20
+Tanzania,Energy: Population without access to clean cooking fuels (millions of people),33.94,34.87,35.85,36.89,37.94,39.10,40.27,41.50,42.79,44.13,45.45,46.81,48.15,49.52,50.82,52.16,53.40,54.73,55.96,57.14,58.25,59.44,60.48
+Tanzania,Energy intensity level of primary energy (MJ/2017 PPP GDP),12.45,12.17,11.91,11.58,11.14,10.96,10.85,10.05,9.68,9.41,9.20,9.02,8.67,8.51,7.89,7.77,7.47,7.06,6.75,6.69,6.44,6.38,NULL
+Togo,Energy: Population with access to clean cooking fuels (% of population),0.30,0.40,0.50,0.70,0.90,1.10,1.50,1.80,2.30,2.80,3.30,3.90,4.50,5.30,6,6.70,7.60,8.10,9,9.60,10.40,11,11.90
+Togo,Energy: Population without access to clean cooking fuels (millions of people),4.96,5.09,5.23,5.35,5.48,5.62,5.75,5.89,6.02,6.15,6.29,6.42,6.55,6.67,6.80,6.92,7.03,7.17,7.27,7.40,7.51,7.64,7.74
+Togo,Energy intensity level of primary energy (MJ/2017 PPP GDP),10.61,10.49,10.47,10.36,10.57,11.30,10.99,11.28,11.29,13.02,12.30,11.70,10.97,10.07,9.93,9.17,9.34,8.27,8.51,8.30,8.76,8.60,3.70
+Tunisia,Energy: Population with access to clean cooking fuels (% of population),90.50,92.50,94.20,95.60,96.60,97.40,98.10,98.50,98.90,99.20,99.40,99.50,99.60,99.70,99.80,99.80,99.80,99.80,99.80,99.80,99.90,99.90,99.90
+Tunisia,Energy: Population without access to clean cooking fuels (millions of people),0.92,0.73,0.57,0.44,0.34,0.26,0.19,0.15,0.11,0.08,0.06,0.05,0.04,0.03,0.02,0.02,0.02,0.02,0.02,0.02,0.01,0.01,0.01
+Tunisia,Energy intensity level of primary energy (MJ/2017 PPP GDP),4.05,4.12,4.12,4.04,4.01,3.81,3.81,3.69,3.69,3.48,3.77,3.68,3.68,3.66,3.61,3.66,3.67,3.70,3.64,3.53,3.68,3.81,9.86
+Uganda,Energy: Population with access to clean cooking fuels (% of population),0.90,0.90,0.90,0.80,0.80,0.80,0.80,0.80,0.80,0.80,0.90,0.90,0.90,0.90,0.90,0.90,0.80,0.80,0.80,0.80,0.70,0.70,0.60
+Uganda,Energy: Population without access to clean cooking fuels (millions of people),23.82,24.63,25.49,26.41,27.35,28.32,29.31,30.35,31.41,32.51,33.61,34.78,35.98,37.22,38.48,39.78,41.16,42.52,43.92,45.35,46.86,48.36,49.94
+Uganda,Energy intensity level of primary energy (MJ/2017 PPP GDP),13.42,13.54,13.15,12.91,12.72,12.14,11.86,11.53,10.81,10.45,10.20,9.90,10.03,10.13,9.98,9.71,10.06,9.87,9.88,9.52,10.72,10.20,NULL
+Zambia,Energy: Population with access to clean cooking fuels (% of population),13.80,14.30,14.60,15,15.30,15.80,16,16.10,16.10,16.10,16,15.80,15.50,15,14.60,13.90,13.40,12.60,11.90,11.10,10.40,9.60,9
+Zambia,Energy: Population without access to clean cooking fuels (millions of people),9.08,9.28,9.50,9.71,9.94,10.15,10.40,10.68,10.98,11.29,11.63,12.01,12.42,12.88,13.34,13.86,14.37,14.94,15.51,16.12,16.74,17.39,18.02
+Zambia,Energy intensity level of primary energy (MJ/2017 PPP GDP),12.77,12.53,12.37,11.94,11.47,11.04,10.47,9.84,9.45,8.88,8.31,8.28,8.07,7.90,7.86,7.83,7.73,7.77,7.69,7.50,7.88,7.82,NULL
+Zimbabwe,Energy: Population with access to clean cooking fuels (% of population),33.90,33.80,33.60,33,32.40,31.90,31.60,31.20,30.70,30.50,30.40,30.20,30.20,30,30,30,30,30.10,30.30,30.30,30.50,30.50,30.80
+Zimbabwe,Energy: Population without access to clean cooking fuels (millions of people),8.08,8.19,8.30,8.46,8.64,8.81,8.98,9.17,9.40,9.60,9.80,10.04,10.27,10.54,10.79,11.04,11.31,11.55,11.79,12.06,12.29,12.55,12.76
+Zimbabwe,Energy intensity level of primary energy (MJ/2017 PPP GDP),12.57,12.51,13.38,15.33,15.96,18.15,19.35,19.74,22.09,20.93,17.83,16.48,14.61,14.79,14.69,14.59,14.18,13.62,13.64,14.35,15.05,14.77,NULL
