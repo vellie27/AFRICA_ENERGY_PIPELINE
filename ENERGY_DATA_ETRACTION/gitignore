@@ -1,0 +1,7 @@
+# .gitignore
+.env
+*.env
+__pycache__/
+*.pyc
+*.csv
+energy_data_processing.log
