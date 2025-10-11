@@ -1,9 +1,0 @@
-AFRICA ENERGY DEVELOPMENT SUMMARY REPORT
-==================================================
-Generated: 2025-10-10 16:16
-
-📊 DATABASE OVERVIEW
-• Total documents: 162
-• Countries covered: 54
-• Metrics tracked: 3
-• Available metrics: Clean Cooking Access Gap, Clean Cooking Access Rate, Energy Intensity
